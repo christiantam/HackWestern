@@ -5,6 +5,5 @@ public class TerrainBoard : Board {
 
 	public TerrainBoard() {
 		this.Size = 0;
-		this.GameBoard
 	}
 }
